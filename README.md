@@ -22,4 +22,3 @@ chmod +x run.sh
 ```
 
 I wanna test
-<!-- tick -->
